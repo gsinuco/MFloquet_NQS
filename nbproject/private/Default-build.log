@@ -1,0 +1,1 @@
+c++ -ansi -pedantic -std=c++11  -O3 -o nqs_run main.cc
