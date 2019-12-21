@@ -4,6 +4,8 @@
     <df root="." name="0">
       <df name="Ground">
       </df>
+      <df name="MFloquet">
+      </df>
       <df name="src">
         <in>heisenberg1d.cc</in>
         <in>heisenberg2d.cc</in>
@@ -44,8 +46,6 @@
         <gdb_interceptlist>
           <gdbinterceptoptions gdb_all="false" gdb_unhandled="true" gdb_unexpected="true"/>
         </gdb_interceptlist>
-        <gdb_signals>
-        </gdb_signals>
         <gdb_options>
           <DebugOptions>
           </DebugOptions>

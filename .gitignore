@@ -9,3 +9,5 @@
 *.plt~
 #*#
 *~
+nbproject/*
+nqs_run
