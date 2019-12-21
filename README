@@ -1,3 +1,10 @@
+Extension of the Neural Quantum States developed by Carleo and Troyer to describe harmonically driven systems. 
+
+src/periodicallydriven.cc
+
+Here we exploite the Hubbard-like structure of the Floquet expansion.
+
+
 ############################ COPYRIGHT NOTICE MFLOQUET ##################################
 
 Code provided by G. Sinuco, February 2019
